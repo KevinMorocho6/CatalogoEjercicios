@@ -1,5 +1,4 @@
 package com.example.catalogoejercicios
-
 object DatosEjercicios {
 
     val listaEjercicios = listOf(
@@ -80,7 +79,7 @@ object DatosEjercicios {
             series = 3,
             repeticiones = 12,
             descripcion = "Ejercicio que fortalece los glúteos y contribuye a mejorar la estabilidad de la cadera.",
-            indicaciones = "Acuéstate boca arriba con las odillas flexionadas. Eleva la cadera contrayendo los glúteos, mantén unos segundos y desciende lentamente.",
+            indicaciones = "Acuéstate boca arriba con las rodillas flexionadas. Eleva la cadera contrayendo los glúteos, mantén unos segundos y desciende lentamente.",
             imagen = R.drawable.img_puente_gluteos
         )
     )
